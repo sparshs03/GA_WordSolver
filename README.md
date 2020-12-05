@@ -1,2 +1,2 @@
 # GA_WordSolver
-A Genetic Algorithm to recreate a given word
+A Genetic Algorithm to reconstruct a given word
