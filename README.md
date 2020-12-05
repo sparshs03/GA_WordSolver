@@ -4,3 +4,4 @@
 Genetic Algorithms are a Meta Heuristic method of solving problems inspired by the process of evolution
 
 
+![](example.gif)
